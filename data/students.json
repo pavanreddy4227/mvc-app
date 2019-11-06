@@ -1,0 +1,72 @@
+[
+    {
+      "_id": 1,
+      "Given": "Pranay",
+      "Family": "Allikanti",
+      "Email": "pranaykumar0987@gmail.com",
+      "GPA": "3.0",
+      "GitHub": "https://github.com/pranay0987",
+      "Website": "https://pranay0987.github.io/p2-stylesheet/index.html",
+      "SectionId": "463"
+    },
+    {
+      "_id": 2,
+      "Given": "pavan",
+      "Family": "kamjula",
+      "Email": "pavankamjula@gmail.com",
+      "GPA": "4.0",
+      "GitHub": "https://github.com/pavanreddy4227",
+      "Website": "https://pavanreddy4227.github.io/Assignment3/index.html",
+      "SectionId": "463"
+    },
+    {
+      "_id": 3,
+      "Given": "pavan",
+      "Family": "kamjula",
+      "Email": "pavankamjula@gmail.com",
+      "GPA": "4.0",
+      "GitHub": "https://github.com/pavanreddy4227",
+      "Website": "https://pavanreddy4227.github.io/Assignment3/index.html",
+      "SectionId": "463"
+    },
+    {
+      "_id": 4,
+      "Given": "chetan",
+      "Family": "kudaravalli",
+      "Email": "chetank@gmail.com",
+      "GPA": "4.0",
+      "GitHub": "https://github.com/chetan",
+      "Website": "https://github.com/chetan",
+      "SectionId": "463"
+    },
+    {
+      "_id": 1,
+      "Given": "chetan",
+      "Family": "kudaravalli",
+      "Email": "chetank@gmail.com",
+      "GPA": "4.0",
+      "GitHub": "https://github.com/chetan",
+      "Website": "https://github.com/chetan",
+      "SectionId": "463"
+    },
+    {
+      "_id": 2,
+      "Given": "manideep",
+      "Family": "Chamala",
+      "Email": "manideepreddy97@gmail.com",
+      "GPA": "4.0",
+      "GitHub": "https://github.com/manideepchamala",
+      "Website": "https://github.com/manideepchamala/AboutMe",
+      "SectionId": "463"
+    },
+    {
+      "_id": 3,
+      "Given": "Pranay",
+      "Family": "Allikanti",
+      "Email": "pranaykumar0987@gmail.com",
+      "GPA": "3.0",
+      "GitHub": "https://github.com/pranay0987",
+      "Website": "https://pranay0987.github.io/p2-stylesheet/index.html",
+      "SectionId": "463"
+    }
+  ]
