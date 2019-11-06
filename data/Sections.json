@@ -1,0 +1,75 @@
+[
+    {
+      "_id": 1,
+      "SectionNumber": "01",
+      "Days": "MWF",
+      "StartTime": "11:00",
+      "RoomNumber": "ch1200",
+      "InstructorId": "167",
+      "CourseId": "44563"
+    },
+    {
+        "_id": 2,
+        "SectionNumber":"02",
+        "Days": "MWF",
+        "StartTime": "12:00",
+        "RoomNumber": "ch1200",
+        "InstructorId": "167",
+        "CourseId":"44563"
+      },
+      {
+        "_id": 3,
+        "SectionNumber": "04",
+        "Days": "MWF",
+        "StartTime": "12:00",
+        "RoomNumber": "ch1200",
+        "InstructorId": "134",
+        "CourseId": "44563"
+      },
+      {
+        "_id": 4,
+        "SectionNumber": "01",
+        "Days": "TTH",
+        "StartTime": "8:00",
+        "RoomNumber": "ch1300",
+        "InstructorId": "134",
+        "CourseId": "44542"
+      },
+      {
+        "_id": 5,
+        "SectionNumber": "02",
+        "Days": "TTH",
+        "StartTime": "11:00",
+        "RoomNumber": "ch1200",
+        "InstructorId": "134",
+        "CourseId": "44542"
+      },
+      {
+        "_id": 6,
+        "SectionNumber": "01",
+        "Days": "MWF",
+        "StartTime": "12:00",
+        "RoomNumber": "CH1200",
+        "InstructorId": "123",
+        "CourseId": "44560"
+      },
+      {
+        "_id": 7,
+        "SectionNumber": "02",
+        "Days": "MWF",
+        "StartTime": "13:00",
+        "RoomNumber": "CH1200",
+        "InstructorId": "123",
+        "CourseId": "44560"
+      },
+      {
+        "_id": 18,
+        "SectionNumber": "03",
+        "Days": "MWF",
+        "StartTime": "12:00",
+        "RoomNumber": "CH1200",
+        "InstructorId": "123",
+        "CourseId": "44560"
+      }
+  ]
+  
