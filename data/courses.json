@@ -1,0 +1,65 @@
+[
+    {
+      "_id": 10,
+      "SchoolNumber": "44",
+      "CourseNumber": "542",
+      "Name": "WEBAPPS",
+      "inSpring": true,
+      "inSummer": false,
+      "inFall": true
+    },
+    {
+      "_id": 11,
+      "SchoolNumber": "44",
+      "CourseNumber": "543",
+      "Name": "ADB",
+      "inSpring": true,
+      "inSummer": false,
+      "inFall": true
+    },
+    {
+      "_id": 12,
+      "SchoolNumber": "44",
+      "CourseNumber": "544",
+      "Name": "JAVA",
+      "inSpring": true,
+      "inSummer": false,
+      "inFall": true
+    },
+    {
+      "_id": 13,
+      "SchoolNumber": "44",
+      "CourseNumber": "545",
+      "Name": "IOS",
+      "inSpring": true,
+      "inSummer": false,
+      "inFall": true
+    },
+    {
+      "_id": 14,
+      "SchoolNumber": "44",
+      "CourseNumber": "546",
+      "Name": "ANOROID",
+      "inSpring": false,
+      "inSummer": false,
+      "inFall": true
+    },
+    {
+      "_id": 15,
+      "SchoolNumber": "44",
+      "CourseNumber": "547",
+      "Name": "PROJECT MANAGMENT",
+      "inSpring": false,
+      "inSummer": false,
+      "inFall": true
+    },
+    {
+      "_id": 16,
+      "SchoolNumber": "44",
+      "CourseNumber": "548",
+      "Name": "MOBILE COMPUTING",
+      "inSpring": true,
+      "inSummer": false,
+      "inFall": true
+    }
+  ]
